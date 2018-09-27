@@ -13,6 +13,8 @@ typedef struct Contatos
 
 int adicionar(Contato c);
 
+int testando();
+
 int remover(Contato c);
 
 int buscar(char* s);
